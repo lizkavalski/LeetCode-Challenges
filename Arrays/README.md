@@ -2,7 +2,7 @@
 ## Discriptions 
 Contains LeetCode Challenges relating to arrays.
 
-[How Many Numbers Are Smaller Than the Current Number](./howManySmaller.js)
+[How Many Numbers Are Smaller Than the Current Number](./howManySmaller)
 
 [Find Number with Even Numbers](./findNumber.js)
 
