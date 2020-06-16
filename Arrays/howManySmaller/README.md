@@ -7,7 +7,7 @@ Given the array nums, for each nums[i] find out how many numbers in the array ar
 Return the answer in an array
 
 #### Visual
-to add later
+![](Smallerthan.jpg)
 
 #### Algorthism
 
@@ -39,3 +39,6 @@ function (array){
   RETURN results
 }
 ```
+
+#### Code
+ Click the the "[Link](howManySmaller.js)" to view the the code. 
