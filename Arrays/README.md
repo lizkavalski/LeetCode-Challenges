@@ -28,4 +28,4 @@ Contains LeetCode Challenges relating to arrays.
 
 [Two Sum](./twoSum/README.md)
 
-[Valid Monutain Array](./vaildMountainArray/README.md)
+[Valid Monutain Array](./vaildMonuntainArray/README.md)
