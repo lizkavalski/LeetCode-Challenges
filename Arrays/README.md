@@ -12,7 +12,7 @@ Contains LeetCode Challenges relating to arrays.
 
 [How Many Numbers Are Smaller Than the Current Number](./howManySmaller/README.md)
 
-[Majority Element](./majorityElements/README.md)
+[Majority Element](./majorityElement/README.md)
 
 [Merge Sorted Array](./marge/README.md)
 
