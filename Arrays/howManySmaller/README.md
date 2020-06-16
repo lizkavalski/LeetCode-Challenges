@@ -7,7 +7,9 @@ Given the array nums, for each nums[i] find out how many numbers in the array ar
 Return the answer in an array
 
 #### Visual
-<img src="Smallerthan.jpg" width="200">
+<p align="center">
+<img src="Smallerthan.jpg"  width="250" >
+</p>
 
 #### Algorthism
 
