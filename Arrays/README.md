@@ -2,9 +2,9 @@
 ## Discriptions 
 Contains LeetCode Challenges relating to arrays.
 
-[How Many Numbers Are Smaller Than the Current Number](./howManySmaller)
+[How Many Numbers Are Smaller Than the Current Number](./howManySmaller/README.md)
 
-[Find Number with Even Numbers](./findNumber.js)
+[Find Numbers with Even Number of Digits](./findEvenNumber/README.md)
 
 [Squares of a Sorted Array](./sortedSquares.js)
 

@@ -34,6 +34,7 @@ function (array){
     FOR j <-- 0 to array.length 
       IF [j] < [i]
       counter++
+      ENDIF
     END FOR
     results.push <--counter
     couter <-- 0
