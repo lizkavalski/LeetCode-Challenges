@@ -2,30 +2,30 @@
 ## Discriptions 
 Contains LeetCode Challenges relating to arrays.
 
-[How Many Numbers Are Smaller Than the Current Number](./howManySmaller/README.md)
+[Check if N and it Double Exist](./checkIfExist/README.md)
+
+[Contains Duplicates](./containsDuplicate/README.md)
+
+[Duplicate Zeros](./duplicateZeros/README.md)
 
 [Find Numbers with Even Number of Digits](./findEvenNumber/README.md)
 
-[Squares of a Sorted Array](./sortedSquares.js)
+[How Many Numbers Are Smaller Than the Current Number](./howManySmaller/README.md)
 
-[Majority Element](./majorityElements.js)
+[Majority Element](./majorityElements/README.md)
 
-[Move Zeroes](./moveZeros.js)
+[Merge Sorted Array](./marge/README.md)
 
-[Contains Duplicates](./containsDuplicate.js)
+[Max Consecutive Ones](./maxConsecitiveOne/README.md)
 
-[Max Consecutive Ones](./maxConsecitiveOne.js)
+[Move Zeroes](./moveZeros/README.md)
 
-[Duplicate Zeros](./duplicateZeros.js)
+[Remove Deplicates from Sorted Array](./removeDuplicates/README.md)
 
-[Remove Element](./removeElement.js)
+[Remove Element](./removeElement/README.md)
 
-[Two Sum](./twoSum.js)
+[Squares of a Sorted Array](./sortSquares/README.md)
 
-[Remove Deplicates from Sorted Array](./removeDuplicates.js)
+[Two Sum](./twoSum/README.md)
 
-[Merge Sorted Array](./marge.js)
-
-[Check if N and it Double Exist](./checkIfExist.js)
-
-[Valid Monutain Array](./vaildMountainArray.js)
+[Valid Monutain Array](./vaildMountainArray/README.md)
