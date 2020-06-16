@@ -7,4 +7,35 @@ Given the array nums, for each nums[i] find out how many numbers in the array ar
 Return the answer in an array
 
 #### Visual
+to add later
 
+#### Algorthism
+
+* Create a fuction that takes an array
+* create variable to hold new array
+* Create a nested array
+  * In the frist loop:
+    * Set a counter
+  * In the second loop:
+    * Compare the indexs of the frist and second loop.
+    * If the index of the sencond loop is less then the frist add to the conuter.
+* Push the counter to the new array
+* Reset the counter
++ return the new array
+
+#### Psudocode
+```
+function (array){
+  results <-- []
+  FOR i <-- 0 to array.lengths
+    counter <-- 0
+    FOR j <-- 0 to array.length 
+      IF [j] < [i]
+      counter++
+    END FOR
+    results.push <--counter
+    couter <-- 0
+  END FOR
+  RETURN results
+}
+```
