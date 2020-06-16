@@ -7,7 +7,9 @@ Given an array nums of integers, return how many of them contain an even number 
 <p align="center">
 <img src="FindTheEvenNum.jpg"  width="250" >
 </p>
+
 #### Algorthism
+
 * Create a function that takes an array
 * Set a counter to keep track of the even digits
 * Make a loop to go through the array
