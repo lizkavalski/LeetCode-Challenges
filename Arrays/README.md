@@ -4,7 +4,7 @@ Contains LeetCode Challenges relating to arrays.
 
 [Check if N and it Double Exist](./checkIfExist/README.md)
 
-[Contains Duplicates](./containsDuplicate/README.md)
+[Contains Duplicates](./containsDuplicates/README.md)
 
 [Duplicate Zeros](./duplicateZeros/README.md)
 
