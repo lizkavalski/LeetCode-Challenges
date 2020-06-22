@@ -1,6 +1,6 @@
 ## Check if N and it Double Exist
 
-#### Problem 
+### Problem 
 Given an array arr of integers, check if there exists two integers N and M such that N is the double of M ( i.e. N = 2 * M).
 
 More formally check if there exists two indices i and j such that :
@@ -9,12 +9,12 @@ More formally check if there exists two indices i and j such that :
 * 0 <= i, j < arr.length
 * arr[i] == 2 * arr[j]
 
-#### Visual
+### Visual
 <p align="center">
-<img src="Ifexist.jpg"  width="250" >
+<img src="Ifexist.jpg"  width="270" >
 </p>
 
-#### Algorthism
+### Algorthism
 * Create a function that take an array as an input
 * Do a loop that goes the length of the arr.
 * Do a second loop, which:
@@ -25,8 +25,9 @@ More formally check if there exists two indices i and j such that :
     equal the index of the sencond loop return true
   * if not return false
 
-  #### Psudocode
+  ### Psudocode
   ````
+  START
   function(INPUT<-- array)
     FOR i<-- 0 to length of array
       FOR j <-- to length of array
@@ -37,5 +38,5 @@ More formally check if there exists two indices i and j such that :
     RETURN false
   END
   ````
-#### Code 
+### Code 
  Click the the "[Link](checkIfExist.js)" to view the the code. 

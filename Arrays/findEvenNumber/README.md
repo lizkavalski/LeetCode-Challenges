@@ -1,14 +1,14 @@
 ##  Find Numbers with Even Number of Digits
 
-#### Problem
+### Problem
 Given an array nums of integers, return how many of them contain an even number of digits.
 
-#### Visual
+### Visual
 <p align="center">
 <img src="FindTheEvenNum.jpg"  width="250" >
 </p>
 
-#### Algorthism
+### Algorthism
 
 * Create a function that takes an array
 * Set a counter to keep track of the even digits
@@ -18,8 +18,9 @@ Given an array nums of integers, return how many of them contain an even number 
   * if not move on
 * return the counter
 
-#### Psudocode
+### Psudocode
 ````
+Start
 functiom(arr)
   counter <-- 0
     FOR i <--0 to length of array
@@ -27,9 +28,9 @@ functiom(arr)
       counter++
       END IF
     END FOR
-  RETURN counter
+  RETURN OUTPUT <-- counter
 END
 ````
 
-#### Code
+### Code
  Click the the "[Link](findNumber.js)" to view the the code. 
