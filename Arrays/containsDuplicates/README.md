@@ -20,16 +20,15 @@ Your function should return true if any value appears at least twice in the arra
 
 ### Psudocode
 ````
-START
-function(INPUT<--array)
+START function(INPUT<--array)
   map <-- []
   FOR i <-- 0 to length of array
     IF map[array[i]]
-      RETURN ture
+      RETURN OUTPUT <--ture
     END IF
     map[array[i]] <-- ture
   END FOR
-RETURN false
+RETURN OUTPUT <-- false
 END
 ````
 ### Code

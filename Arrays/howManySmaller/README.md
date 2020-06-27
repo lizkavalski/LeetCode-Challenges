@@ -27,7 +27,7 @@ Return the answer in an array
 
 ### Psudocode
 ```
-function (array){
+START function (array)
   results <-- []
   FOR i <-- 0 to array.lengths
     counter <-- 0
@@ -40,7 +40,7 @@ function (array){
     couter <-- 0
   END FOR
   RETURN OUTPUT <-- results
-}
+END function
 ```
 
 ### Code

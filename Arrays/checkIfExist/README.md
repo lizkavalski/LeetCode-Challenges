@@ -27,15 +27,14 @@ More formally check if there exists two indices i and j such that :
 
   ### Psudocode
   ````
-  START
-  function(INPUT<-- array)
+  START function(INPUT<-- array)
     FOR i<-- 0 to length of array
       FOR j <-- to length of array
         IF array[i] * 2 === array[j] || array[i] / 2 === array[j]
-          RETURN true
+          RETURN OUTPUT <--true
       END FOR
     END FOR
-    RETURN false
+    RETURN OUTPUT<--false
   END
   ````
 ### Code 

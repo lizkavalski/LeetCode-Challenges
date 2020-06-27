@@ -20,8 +20,7 @@ Given an array nums of integers, return how many of them contain an even number 
 
 ### Psudocode
 ````
-Start
-functiom(arr)
+START functiom(arr)
   counter <-- 0
     FOR i <--0 to length of array
       IF arr[i].toString().length % 2 === 0
