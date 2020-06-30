@@ -1,6 +1,6 @@
 ## Contains Duplicates
 Given an array of integers, find if the array contains any duplicates.
-
+__*Note*__:<br>
 Your function should return true if any value appears at least twice in the array, and it should return false if every element is distinct.
 
 ### Visual
@@ -28,8 +28,8 @@ START function(INPUT<--array)
     END IF
     map[array[i]] <-- ture
   END FOR
-RETURN OUTPUT <-- false
-END
+  RETURN OUTPUT <-- false
+ENDF UNCTION
 ````
 ### Code
- Click the the "[Link](containsDuplicates.js)" to view the the code. 
+ Click the the "[Link](containsDuplicate.js)" to view the the code. 

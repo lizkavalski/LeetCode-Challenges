@@ -32,7 +32,7 @@ START Function(INPUT<-- array)
     END IF
   END FOR
   RETURN max
-END
+END FUNCTION
 ````
 ### Code
 Click the the "[Link](maxConsecitiveOne.js)" to view the the code. 

@@ -38,7 +38,7 @@ Start Function(INPUT<-- array)
     END IF
   END FOR
   RETRUN mElement
-END
+END FUNCTION
 ````
 ### Code
  Click the the "[Link](majorityElement.js)" to view the the code. 

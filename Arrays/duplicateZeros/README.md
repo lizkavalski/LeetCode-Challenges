@@ -3,7 +3,7 @@
 ### Problem 
 Given a fixed length array arr of integers, duplicate each occurrence of zero, shifting the remaining elements to the right.
 
-__*Note*__  that elements beyond the length of the original array are not written.
+__*Note*__ :<br> That elements beyond the length of the original array are not written.
 
 Do the above modifications to the input array in place, do not return anything from your function.
 
@@ -29,7 +29,7 @@ START FUNCTION(INPUT <-- array)
       i++
     END IF
   END FOR
-END 
+END FUNCTION
 ````
 ### Code 
  Click the the "[Link](duplicateZeros.js)" to view the the code. 

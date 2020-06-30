@@ -36,7 +36,7 @@ START Funtion (INPUT<-- arr1,m,arr2,n )
       DECAMENT n
     END IF
   END WHILE
-END 
+END FUNCTION
 ````
 
 ### Code
