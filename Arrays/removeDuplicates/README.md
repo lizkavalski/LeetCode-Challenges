@@ -16,9 +16,9 @@ Do not allocate extra space for another array, you must do this by modifying the
 * Make a for loop which acts as a second pointer
     * check the index value array frist and second pointers
        * if not the same 
-          * incerment the frist poniter
-          * set the value of the frist point to the sencond
-* return the value of frist pointer plas one.
+        * incerment the frist poniter
+        * set the value of the frist point to the sencond
+* Return the value of frist pointer plus one.
 
 ### PsudoCode 
 ````
