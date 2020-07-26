@@ -8,7 +8,9 @@ __*Note*__ :<br> That elements beyond the length of the original array are not w
 Do the above modifications to the input array in place, do not return anything from your function.
 
 ### Visual
-
+<p align="center">
+<img src="DupZero(1).jpg"  width="350" >
+</p>
 ### Algorthism
 * Make a function that accepts an array as an input
 * Make a for loop

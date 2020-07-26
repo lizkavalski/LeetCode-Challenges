@@ -4,7 +4,9 @@
 Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.
 
 ### Visual
-
+<p align="center">
+<img src="MoveZero.jpg"  width="350" >
+</p>
 ### Algorthism
 * Make a function that take in an array
 * set a counter 

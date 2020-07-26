@@ -15,3 +15,4 @@ Contains LeetCode Challenges relating to LinkList.
 [Convert Sorted List to Dinary Search Tree](./convertSortLLtoBST.js)
 
 
+To go back to the main page click "[here](../index.md)"

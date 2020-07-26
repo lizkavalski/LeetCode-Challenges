@@ -15,3 +15,5 @@ Contains LeetCode Challenges relating to Trees.
 [Convert Sorted Array to Binary Search Tree](./arrayToBST.js)
 
 [Path Sum](pathSum.js)
+
+To go back to the main page click "[here](../index.md)"

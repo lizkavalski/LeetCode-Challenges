@@ -6,7 +6,9 @@ Given an array of size n, find the majority element. The majority element is the
 __*Note*__ : You may assume that the array is non-empty and the majority element always exist in the array.
 
 ### Visual
-
+<p align="center">
+<img src="MajorityElm.jpg"  width="350" >
+</p>
 ### Algorthism
 * Make a function that take an array as an input.
   * If input is not an array return null. 

@@ -8,6 +8,9 @@ Do not allocate extra space for another array, you must do this by modifying the
 The order of elements can be changed. It doesn't matter what you leave beyond the new length.
 
 ### Visual
+<p align="center">
+<!-- <img src=".jpg"  width="350" > -->
+</p>
 
 ### Algrothism
 * Make a function that take in an array and a value

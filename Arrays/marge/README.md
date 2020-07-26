@@ -8,7 +8,9 @@ __*Note:*__
 * You may assume that nums1 has enough space (size that is greater or equal to m + n) to hold additional elements from nums2.
 
 ### Visual
-
+<p align="center">
+<img src="MargeS.jpg"  width="350" >
+</p>
 ### Algorthism
 * Make a function that take in 2 arrays with a number of elements of each one (m and n)
 * If n equal zero return array 1

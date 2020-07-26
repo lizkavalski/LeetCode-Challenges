@@ -4,7 +4,9 @@
 Given a binary array, find the maximum number of consecutive 1s in this array.
 
 ### Visual
-
+<p align="center">
+<img src="MaxCon.jpg"  width="350" >
+</p>
 ### Algorthism
 * Make a funtion that take in an binary array
 * Set the max to zero
