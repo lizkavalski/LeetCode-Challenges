@@ -3,6 +3,9 @@
 Given an array of integers A sorted in non-decreasing order, return an array of the squares of each number, also in sorted non-decreasing order.
 
 ### Visual
+<p align="center">
+<!-- <img src=".jpg"  width="350" > -->
+</p>
 
 ### Algrothism
 *  Make a funcation that take an array

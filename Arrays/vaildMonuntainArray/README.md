@@ -9,6 +9,9 @@ Recall that A is a mountain array if and only if:
   * A[i] > A[i+1] > ... > A[A.length - 1]
 
 ### Visual
+<p align="center">
+<!-- <img src=".jpg"  width="350" > -->
+</p>
 
 ### Algorthism 
 * Make a function

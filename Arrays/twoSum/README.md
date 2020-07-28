@@ -6,6 +6,9 @@ __*Note*__:<br>
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
 ### Visual
+<p align="center">
+<!-- <img src=".jpg"  width="350" > -->
+</p>
 
 ### Algorthism
 * Make a function that takes an array and target
