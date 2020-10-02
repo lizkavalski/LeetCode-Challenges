@@ -7,7 +7,9 @@ __*Note*__:<br>
 Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
 
 ### Visual 
-
+<p align="center">
+<img src="Removedups.jpg"  width="350" >
+</p>
 ### Algrothism
 * Make a function the take in an array of numbers
 * Chack the length of the array is greater then 0
