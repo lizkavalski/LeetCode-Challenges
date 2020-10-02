@@ -12,7 +12,7 @@ Contains LeetCode Challenges relating to LinkList.
 
 [Remove Linked List Elements](./removeLLelementes.js)
 
-[Convert Sorted List to Dinary Search Tree](./convertSortLLtoBST.js)
+[Convert Sorted List to Binary Search Tree](./convertSortLLtoBST.js)
 
 
 To go back to the main page click "[here](../index.md)"
