@@ -2,17 +2,17 @@
 ## Discriptions 
 Contains LeetCode Challenges relating to LinkList.
 
-[Middle of the Linked List](./middleLL.js)
+[Convert Sorted List to Binary Search Tree](./convertSortLLtoBST/README.md)
 
-[Delete Node in a Link List](./deletenodeLL.js)
+[Delete Node in a Link List](./DeletenodeLL/README.md)
 
-[Reverse Link List](./reversell.js)
+[Middle of the Linked List](./middleLL/README.md)
 
-[Remove Duplicates from Sorted List](./removeDuplicates.js)
+[Remove Duplicates from Sorted List](./removeDuplicates/README.md)
 
-[Remove Linked List Elements](./removeLLelementes.js)
+[Remove Linked List Elements](./removeLLelements/README.md)
 
-[Convert Sorted List to Binary Search Tree](./convertSortLLtoBST.js)
+[Reverse Link List](./reverseLL/README.md)
 
 
 To go back to the main page click "[here](../index.md)"
