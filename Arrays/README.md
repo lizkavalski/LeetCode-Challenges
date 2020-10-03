@@ -4,6 +4,8 @@ An array is collection of items stored at contiguous memory locations. The idea 
 
 #### Contains LeetCode Challenges relating to arrays.
 
+* [Binary Search](./binarySearch/README.md)
+
 * [Check if N and it Double Exist](./checkIfExist/README.md)
 
 * [Contains Duplicates](./containsDuplicates/README.md)
