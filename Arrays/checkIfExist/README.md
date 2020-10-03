@@ -14,8 +14,9 @@ More formally check if there exists two indices i and j such that :
 <p align="center">
 <img src="Ifexist.jpg"  width="270" >
 </p>
-<!-- ![](./Ifexist.jpg) -->
+
 ### Algorthism
+
 * Create a function that take an array as an input
 * Do a loop that goes the length of the arr.
 * Do a second loop, which:
