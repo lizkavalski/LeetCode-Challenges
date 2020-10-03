@@ -10,7 +10,7 @@ Recall that A is a mountain array if and only if:
 
 ### Visual
 <p align="center">
-<!-- <img src=".jpg"  width="350" > -->
+<img src="mountainArray.png"  width="500" >
 </p>
 
 ### Algorthism 

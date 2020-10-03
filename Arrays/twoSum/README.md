@@ -7,7 +7,7 @@ You may assume that each input would have exactly one solution, and you may not 
 
 ### Visual
 <p align="center">
-<!-- <img src=".jpg"  width="350" > -->
+<img src="twoSum.png"  width="350" >
 </p>
 
 ### Algorthism
