@@ -4,7 +4,7 @@ Contains LeetCode Challenges relating to LinkList.
 
 [Convert Sorted List to Binary Search Tree](./convertSortLLtoBST/README.md)
 
-[Delete Node in a Link List](./DeletenodeLL/README.md)
+[Delete Node in a Link List](./deletenodeLL/README.md)
 
 [Middle of the Linked List](./middleLL/README.md)
 
