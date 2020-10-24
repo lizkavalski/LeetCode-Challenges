@@ -8,8 +8,7 @@ For this problem, a height-balanced binary tree is defined as a binary tree in w
 
 ## Visual
 
-![](convertLLtoBST.png)
-</p>
+![](convertLLtoBST.png)s
 
 ## Algorthism
 * Make a function that take a link-list.
