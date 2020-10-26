@@ -28,7 +28,7 @@ For this problem, a height-balanced binary tree is defined as a binary tree in w
     * return the root.
 * return the tree function with the input of the vals.
 
-## PsudoCode
+## PseudoCode
 ```
 START FUNCTION (INPUT <-- HEAD)
 		vals <-- []

@@ -14,7 +14,7 @@ It is guaranteed that the node to be deleted is not a tail node in the list.
 * Define node.value as node.next.value
 * Define node.next as node.next.next
 
-## Psudocode 
+## Pseudocode 
 ```
 START FUNCTION(INPUT <-- node)
     node.val <-- node.next.val
