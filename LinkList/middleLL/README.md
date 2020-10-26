@@ -49,4 +49,6 @@ START middleNode <--FUNCTION (INPUT <-- head of linked list)
   OUTPUT RETURN nodeThatIsInTheMiddle(head, middle)
 END 
 ```
+
+# Code
 Click the the "[Link](middleLL.js)" to view the the code.
