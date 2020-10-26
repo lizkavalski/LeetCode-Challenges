@@ -19,9 +19,9 @@ Given a binary array, find the maximum number of consecutive 1s in this array.
     * Else current is zero
 * Return the max
 
-### Psudocode
+### Pseudocode
 ````
-START Function(INPUT<-- array)
+START indMaxConsecutive <-- FUNCTION(INPUT<-- array)
   max <-- 0
   current <-- 0
   FOR i <--0 to length of the array

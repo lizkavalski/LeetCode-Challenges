@@ -18,9 +18,9 @@ Your function should return true if any value appears at least twice in the arra
   * set hashmap index to contain the input array's index as ture 
 * Otherwise return false.
 
-### Psudocode
+### Pseudocode
 ````
-START function(INPUT<--array)
+START containsDuplicate <-- FUNCTION(INPUT<--array)
   map <-- []
   FOR i <-- 0 to length of array
     IF map[array[i]]

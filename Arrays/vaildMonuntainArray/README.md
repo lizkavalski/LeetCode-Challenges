@@ -32,9 +32,9 @@ Recall that A is a mountain array if and only if:
   * Else return false
 * retrun true or false if dirction is zreo
     
-### Psudocode
+### Pseudocode
 ```
-START FUNCTION (INPUT<-- array)\
+START validMountainArray <-- FUNCTION (INPUT<-- array)\
   IF length of array <= 2 <-- RETURN false
   direction <-- 1
   previous <-- array[0]

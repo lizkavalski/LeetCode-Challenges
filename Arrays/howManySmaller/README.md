@@ -25,9 +25,9 @@ Return the answer in an array
 * Reset the counter
 + return the new array
 
-### Psudocode
+### Pseudocode
 ```
-START FUNCTION (INPUT <-- array)
+START smallerNumbersThanCurrent <-- FUNCTION (INPUT <-- array)
   results <-- []
   FOR i <-- 0 to array.lengths
     counter <-- 0

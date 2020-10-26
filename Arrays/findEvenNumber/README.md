@@ -18,9 +18,9 @@ Given an array nums of integers, return how many of them contain an even number 
   * if not move on
 * return the counter
 
-### Psudocode
+### Pseudocode
 ````
-START FUNCTION (INPUT <-- array)
+START findNumbers <-- FUNCTION (INPUT <-- array)
   counter <-- 0
     FOR i <--0 to length of array
       IF arr[i].toString().length % 2 === 0

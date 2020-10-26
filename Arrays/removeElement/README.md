@@ -8,21 +8,20 @@ Do not allocate extra space for another array, you must do this by modifying the
 The order of elements can be changed. It doesn't matter what you leave beyond the new length.
 
 ### Visual
-<p align="center">
-<!-- <img src=".jpg"  width="350" > -->
-</p>
+![](removeElement.png)
 
 ### Algrothism
 * Make a function that take in an array and a value
-* Make  a for loop
+* Make a for loop
   * If the index value of the array equal the value
     use array.splice
      * *.splice(): is a javasrcipt built-in that allows changes to the contents of an array by removing or replacing existing elements and/or adding new elements in.*
   * Else incerment
 Return the leanth of the array
-### Psudocode
+
+### Pseudocode
 ```
-START FUNTION(INPUT <-- array, val)
+START removeElement <-- FUNTION(INPUT <-- array, val)
   FOR i <-- 0 to the length of array
     IF array[i] === value
       array.splice(i,1)

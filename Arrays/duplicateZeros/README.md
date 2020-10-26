@@ -21,9 +21,9 @@ Do the above modifications to the input array in place, do not return anything f
   * increments i
 * return the array.
 
-### Psudocode
+### Pseudocode
 ````
-START FUNCTION(INPUT <-- array)
+START duplicateZero <-- FUNCTION(INPUT <-- array)
   FOR i<-- 0 i to the length of array
     IF array[i] === 0
       array.length <-- array.length - 1

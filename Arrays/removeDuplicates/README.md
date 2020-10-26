@@ -22,9 +22,9 @@ Do not allocate extra space for another array, you must do this by modifying the
         * set the value of the frist point to the sencond
 * Return the value of frist pointer plus one.
 
-### PsudoCode 
+### PseudoCode 
 ````
-START FUNCTION(INPUT<-- array)
+START removeDuplicates <-- FUNCTION(INPUT<-- array)
   IF length of array === 0
     OUTPUT <-- RETURN 0
   END IF

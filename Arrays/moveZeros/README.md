@@ -17,9 +17,9 @@ Given an array nums, write a function to move all 0's to the end of it while mai
   * array index incerment the count  is zreo
 * Return the array
 
-### Psudocode
+### Pseudocode
 ```
-START FUNCTION(INPUT <-- array)
+START moveZeroes <-- FUNCTION(INPUT <-- array)
   count <-- 0
   FOR i <--0 to the length of the array
     IF array[i] !== 0

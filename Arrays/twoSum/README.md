@@ -17,9 +17,9 @@ You may assume that each input would have exactly one solution, and you may not 
   * check if index value of the frist loop plus the the index value of the second equal the target
   * if so return the index value of i and j
 
-### Psudocode
+### Pseudocode
 ```
-START FUNCTION (INPUT <-- array, target)
+START twoSum <-- ßFUNCTION (INPUT <-- array, target)
   FOR i<-- 0 to the length of the array
     FOR j<-- 1 to the length of the array
       IF array[i] + array[j] === target

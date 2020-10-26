@@ -23,9 +23,9 @@ __*Note*__ : You may assume that the array is non-empty and the majority element
   * Else add to the count.
 * Return the mElement
 
-### Psudocode
+### Pseudocode
 ````
-Start Function(INPUT<-- array)
+Start majorityElement <-- Function(INPUT<-- array)
   If !array <-- RETURN null
   count <-- 1
   mElement <-- array[0]

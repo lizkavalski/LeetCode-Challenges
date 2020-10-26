@@ -25,9 +25,9 @@ More formally check if there exists two indices i and j such that :
         * equal the index of the sencond loop return true
   * if not return false
 
-  ### Psudocode
+  ### Pseudocode
   ````
-  START function(INPUT<-- array)
+  START checkIfExist <-- FUNCTION(INPUT<-- array)
     FOR i<-- 0 to length of array
       FOR j <-- to length of array
         IF array[i] * 2 === array[j] || array[i] / 2 === array[j]

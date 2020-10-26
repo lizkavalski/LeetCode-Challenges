@@ -14,9 +14,9 @@ Given a sorted (in ascending order) integer array nums of n elements and a targe
     * return the index.
 * Other wise return -1
 
-## Psudocode
+## Pseudocode
 ```
-START function(INPUT<-- array, target)
+START search <-- FUNCTION(INPUT<-- array, target)
   FOR i<-- 0 to the length of array
     IF target === array[i]
       OUTPUT [i]

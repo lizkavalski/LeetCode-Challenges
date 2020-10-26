@@ -23,9 +23,9 @@ __*Note:*__
 * Else array 1 index value of  m plus n plus 1 equal array2 index value of n
   * Decament n 
 
-### Psudocode
+### Pseudocode
 ````
-START Funtion (INPUT<-- arr1,m,arr2,n )
+START merge <-- FUNCTION (INPUT<-- arr1,m,arr2,n )
   IF n === 0 RETURN
   DECAMENT m
   DECAMENT n
