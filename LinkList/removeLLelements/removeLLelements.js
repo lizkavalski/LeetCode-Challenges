@@ -13,7 +13,8 @@ var removeElements = function(head, val) {
     if (curr.next.val === val){
       curr.next = curr.next.next;
     } else {
-      curr = curr.next;};
+      curr = curr.next;
+    };
   }
   return head;
 };
