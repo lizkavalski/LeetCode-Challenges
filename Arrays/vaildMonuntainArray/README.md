@@ -1,5 +1,5 @@
-## Valid Monutain Array
-### Problem
+# Valid Monutain Array
+## Problem
 Given an array A of integers, return true if and only if it is a valid mountain array.</br>
 __*Note:*__</br>
 Recall that A is a mountain array if and only if:
@@ -8,12 +8,12 @@ Recall that A is a mountain array if and only if:
   * A[0] < A[1] < ... A[i-1] < A[i]
   * A[i] > A[i+1] > ... > A[A.length - 1]
 
-### Visual
+## Visual
 <p align="center">
 <img src="mountainArray.png"  width="500" >
 </p>
 
-### Algorthism 
+## Algorthism 
 * Make a function
 * Check the length of the array
 * Set the direction to one
@@ -32,7 +32,7 @@ Recall that A is a mountain array if and only if:
   * Else return false
 * retrun true or false if dirction is zreo
     
-### Pseudocode
+## Pseudocode
 ```
 START validMountainArray <-- FUNCTION (INPUT<-- array)\
   IF length of array <= 2 <-- RETURN false
@@ -56,5 +56,11 @@ START validMountainArray <-- FUNCTION (INPUT<-- array)\
   OUTPUT <-- IF direction === 0 return if ture || false
 END FUNCTION
 ```
-### Code 
+## Code 
 Click the the "[Link](vaildMountainArray.js)" to view the the code. 
+
+<hr>
+
+[ ⏎ Back to Array index ](../README.md) 
+
+[〈 Previous: Two Sum](../twoSum/README.md)

@@ -50,5 +50,7 @@ START middleNode <--FUNCTION (INPUT <-- head of linked list)
 END 
 ```
 
-# Code
+## Code
 Click the the "[Link](middleLL.js)" to view the the code.
+
+Click "[here](../README.md)" to get back to the index page for 'Linked List'

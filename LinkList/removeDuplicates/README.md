@@ -43,3 +43,5 @@ END
 
 ## Code
 Click the the "[Link](removeDuplicates.js)" to view the the code.
+
+Click "[here](../README.md)" to get back to the index page for 'Linked List'

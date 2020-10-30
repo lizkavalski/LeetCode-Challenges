@@ -1,11 +1,11 @@
-## Majority Element
+# Majority Element
 
-### Problem
+## Problem
 Given an array of size n, find the majority element. The majority element is the element that appears more than ⌊ n/2 ⌋ times.
 
 __*Note*__ : You may assume that the array is non-empty and the majority element always exist in the array.
 
-### Visual
+## Visual
 <p align="center">
 <img src="MajorityElm.jpg"  width="350" >
 </p>
@@ -23,7 +23,7 @@ __*Note*__ : You may assume that the array is non-empty and the majority element
   * Else add to the count.
 * Return the mElement
 
-### Pseudocode
+## Pseudocode
 ````
 Start majorityElement <-- Function(INPUT<-- array)
   If !array <-- RETURN null
@@ -42,5 +42,10 @@ Start majorityElement <-- Function(INPUT<-- array)
   RETRUN mElement
 END FUNCTION
 ````
-### Code
+## Code
  Click the the "[Link](majorityElement.js)" to view the the code. 
+ <hr>
+
+[⏎ Back to Array index ](../README.md) 
+
+[〈 Previous: How Many Numbers Are Smaller Than The Current Number](../howManySmaller/README.md) | [Next: Merge Sorted Array 〉](../marge/README.md)

@@ -25,3 +25,9 @@ END
 ## Code
 
 Click the the "[Link](deletenodeLL.js)" to view the the code.
+
+<hr>
+
+[ ⏎ Back to Linked List index ](../README.md) 
+
+[〈 Previous: Convert Sorted List to Binary Search Tree](../convertSortLLtoBST/README.md) | [Next: Middle of the Linked List 〉](../middleLL/README.md)

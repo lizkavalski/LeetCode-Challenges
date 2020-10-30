@@ -1,13 +1,13 @@
-## Merge Sorted Array
+# Merge Sorted Array
 
-### Problem
+## Problem
 Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array.
 
 __*Note:*__
 * The number of elements initialized in nums1 and nums2 are m and n respectively.
 * You may assume that nums1 has enough space (size that is greater or equal to m + n) to hold additional elements from nums2.
 
-### Visual
+## Visual
 <p align="center">
 <img src="MargeS.jpg"  width="350" >
 </p>
@@ -23,7 +23,7 @@ __*Note:*__
 * Else array 1 index value of  m plus n plus 1 equal array2 index value of n
   * Decament n 
 
-### Pseudocode
+## Pseudocode
 ````
 START merge <-- FUNCTION (INPUT<-- arr1,m,arr2,n )
   IF n === 0 RETURN
@@ -41,5 +41,10 @@ START merge <-- FUNCTION (INPUT<-- arr1,m,arr2,n )
 END FUNCTION
 ````
 
-### Code
+## Code
 Click the the "[Link](marge.js)" to view the the code. 
+<hr>
+
+[⏎ Back to Array index ](../README.md) 
+
+[〈 Previous: Majority Element](../majorityElement/README.md) | [Next: Max Consective Ones 〉](../MaxConsecitiveOne/README.md)

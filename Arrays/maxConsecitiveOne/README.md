@@ -1,13 +1,14 @@
-## Max Consecutive Ones
+# Max Consecutive Ones
 
-### Problem
+## Problem
 Given a binary array, find the maximum number of consecutive 1s in this array.
 
-### Visual
+## Visual
 <p align="center">
 <img src="MaxCon.jpg"  width="350" >
 </p>
-### Algorthism
+
+## Algorthism
 * Make a funtion that take in an binary array
 * Set the max to zero
 * Set current to zero
@@ -19,7 +20,7 @@ Given a binary array, find the maximum number of consecutive 1s in this array.
     * Else current is zero
 * Return the max
 
-### Pseudocode
+## Pseudocode
 ````
 START indMaxConsecutive <-- FUNCTION(INPUT<-- array)
   max <-- 0
@@ -36,5 +37,10 @@ START indMaxConsecutive <-- FUNCTION(INPUT<-- array)
   RETURN max
 END FUNCTION
 ````
-### Code
+## Code
 Click the the "[Link](maxConsecitiveOne.js)" to view the the code. 
+<hr>
+
+[⏎ Back to Array index ](../README.md) 
+
+[〈 Previous: Merge Sorted Array](../marge/README.md) | [Next: Move Zeros〉](../moveZeros/README.md)

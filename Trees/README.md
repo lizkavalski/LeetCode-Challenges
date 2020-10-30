@@ -2,18 +2,18 @@
 ## Discriptions 
 Contains LeetCode Challenges relating to Trees.
 
-[Range Sum of BST](./rangeSum.js)
+[Convert Sorted Array to Binary Search Tree](./arrayToBST/README.md)
 
-[N-ary Tree Postorder](./postorder.js)
+[Maximum Deapth of Binary Tree](./maxDepth/README.md)
 
-[N-ary Tree Preorder](./preorder.js)
+[N-ary Tree Postorder](./postorder/README.md)
 
-[Search in Binary Search Tree](./searchTree.js)
+[N-ary Tree Preorder](./preorder/README.md)
 
-[Maximum Deapth of Binary Tree](./maxDepth.js)
+[Path Sum](pathSum/README)
 
-[Convert Sorted Array to Binary Search Tree](./arrayToBST.js)
+[Range Sum of BST](./rangeSum/README.md)
 
-[Path Sum](pathSum.js)
+[Search in Binary Search Tree](./searchTree/README.md)
 
 To go back to the main page click "[here](../index.md)"

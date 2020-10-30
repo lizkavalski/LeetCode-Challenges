@@ -18,7 +18,7 @@ Reverse a singly linked list.
 * Return tail.
 ## Psuedocode
 ```
-START reverseList <-- FUNCTION(INPUT<-- head)
+START reverseList <-- FUNCTION(INPUT<-- head) 
   IF head === null
     OUTPUT <-- RETURN head
   END IF
@@ -35,3 +35,5 @@ END
 ```
 ## Code
 Click the the "[Link](reversell.js)" to view the the code.
+
+Click "[here](../README.md)" to get back to the index page for 'Linked List'

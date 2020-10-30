@@ -1,5 +1,5 @@
-## Remove Element
-### Problem
+# Remove Element
+## Problem
 Given an array nums and a value val, remove all instances of that value in-place and return the new length.
 
 __*Note*__:<br>
@@ -7,10 +7,10 @@ Do not allocate extra space for another array, you must do this by modifying the
 
 The order of elements can be changed. It doesn't matter what you leave beyond the new length.
 
-### Visual
+## Visual
 ![](removeElement.png)
 
-### Algrothism
+## Algrothism
 * Make a function that take in an array and a value
 * Make a for loop
   * If the index value of the array equal the value
@@ -19,7 +19,7 @@ The order of elements can be changed. It doesn't matter what you leave beyond th
   * Else incerment
 Return the leanth of the array
 
-### Pseudocode
+## Pseudocode
 ```
 START removeElement <-- FUNTION(INPUT <-- array, val)
   FOR i <-- 0 to the length of array
@@ -32,5 +32,11 @@ START removeElement <-- FUNTION(INPUT <-- array, val)
   OUTPUT <-- length of array
 END FUNCTION
 ```
-### Code
+## Code
 Click the the "[Link](removeElement.js)" to view the the code. 
+
+<hr>
+
+[⏎ Back to Array index ](../README.md) 
+
+[〈 Previous: Remove Deplicates from Sorted Array](../removeDuplicates/README.md) | [Next: Squares of a Sorted Array 〉](../sortSquares/README.md)

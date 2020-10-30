@@ -1,9 +1,11 @@
-## Contains Duplicates
+# Contains Duplicates
+
+## Problem
 Given an array of integers, find if the array contains any duplicates.
 __*Note*__:<br>
 Your function should return true if any value appears at least twice in the array, and it should return false if every element is distinct.
 
-### Visual
+## Visual
 <p align="center">
 <img src="containsdup.jpg"  width="350" >
 </p>
@@ -18,7 +20,7 @@ Your function should return true if any value appears at least twice in the arra
   * set hashmap index to contain the input array's index as ture 
 * Otherwise return false.
 
-### Pseudocode
+## Pseudocode
 ````
 START containsDuplicate <-- FUNCTION(INPUT<--array)
   map <-- []
@@ -31,5 +33,11 @@ START containsDuplicate <-- FUNCTION(INPUT<--array)
   RETURN OUTPUT <-- false
 ENDF UNCTION
 ````
-### Code
+## Code
  Click the the "[Link](containsDuplicate.js)" to view the the code. 
+
+<hr>
+
+[⏎ Back to Array index ](../README.md) 
+
+[〈 Previous: Check if N and it Double Exist](../checkIfExist/README.md) | [Next: Duplicates Zeros 〉](../duplicateZeros/README.md)

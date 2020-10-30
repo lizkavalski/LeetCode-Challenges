@@ -27,3 +27,9 @@ END
 ```
 ## Code
  Click the the "[Link](binarySearch.js)" to view the the code. 
+
+<hr>
+
+[⏎ Back to Array index ](../README.md) 
+
+[Next: Check if N and it Double Exist 〉](../checkIfExist/README.md)

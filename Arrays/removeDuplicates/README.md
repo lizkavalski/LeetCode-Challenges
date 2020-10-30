@@ -1,6 +1,6 @@
-## Remove Deplicates from Sorted Array
+# Remove Deplicates from Sorted Array
 
-### Problem
+## Problem
 Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
 
 __*Note*__:<br>
@@ -10,7 +10,8 @@ Do not allocate extra space for another array, you must do this by modifying the
 <p align="center">
 <img src="Removedups.jpg"  width="350" >
 </p>
-### Algrothism
+
+## Algrothism
 * Make a function the take in an array of numbers
 * Chack the length of the array is greater then 0
   * if not return 0
@@ -22,7 +23,7 @@ Do not allocate extra space for another array, you must do this by modifying the
         * set the value of the frist point to the sencond
 * Return the value of frist pointer plus one.
 
-### PseudoCode 
+## PseudoCode 
 ````
 START removeDuplicates <-- FUNCTION(INPUT<-- array)
   IF length of array === 0
@@ -38,5 +39,11 @@ START removeDuplicates <-- FUNCTION(INPUT<-- array)
   OUTPUT <-- i+1
 END FUNCTION
 ````
-### Code
+## Code
 Click the the "[Link](removeDuplicates.js)" to view the the code. 
+
+<hr>
+
+[ ⏎ Back to Array index ](../README.md) 
+
+[〈 Previous: Move Zeros](../moveZeros/README.md) | [Next: Remove Element 〉](../removeElement/README.md)

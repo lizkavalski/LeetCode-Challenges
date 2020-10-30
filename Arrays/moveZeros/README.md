@@ -1,12 +1,13 @@
-## Move Zeroes
+# Move Zeroes
 
-### Problem
+## Problem
 Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.
 
-### Visual
+## Visual
 <p align="center">
 <img src="MoveZero.jpg"  width="350" >
 </p>
+
 ### Algorthism
 * Make a function that take in an array
 * set a counter 
@@ -17,7 +18,7 @@ Given an array nums, write a function to move all 0's to the end of it while mai
   * array index incerment the count  is zreo
 * Return the array
 
-### Pseudocode
+## Pseudocode
 ```
 START moveZeroes <-- FUNCTION(INPUT <-- array)
   count <-- 0
@@ -34,5 +35,11 @@ END FUNCTION
 ```
 
 
-### Code
+## Code
 Click the the "[Link](moveZeros.js)" to view the the code. 
+
+<hr>
+
+[⏎ Back to Array index ](../README.md) 
+
+[〈 Previous: Max Consecutive Ones ](../maxConsecitiveOne/README.md) | [Next: Remove Deplicates from Sorted Array 〉](../removeDuplicates/README.md)

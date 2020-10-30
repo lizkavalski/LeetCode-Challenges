@@ -1,17 +1,18 @@
-## Duplicate Zeros
+# Duplicate Zeros
 
-### Problem 
+## Problem 
 Given a fixed length array arr of integers, duplicate each occurrence of zero, shifting the remaining elements to the right.
 
 __*Note*__ :<br> That elements beyond the length of the original array are not written.
 
 Do the above modifications to the input array in place, do not return anything from your function.
 
-### Visual
+## Visual
 <p align="center">
 <img src="DupZero(1).jpg"  width="350" >
 </p>
-### Algorthism
+
+## Algorthism
 * Make a function that accepts an array as an input
 * Make a for loop
 * If the index value is zero
@@ -21,7 +22,7 @@ Do the above modifications to the input array in place, do not return anything f
   * increments i
 * return the array.
 
-### Pseudocode
+## Pseudocode
 ````
 START duplicateZero <-- FUNCTION(INPUT <-- array)
   FOR i<-- 0 i to the length of array
@@ -33,5 +34,11 @@ START duplicateZero <-- FUNCTION(INPUT <-- array)
   END FOR
 END FUNCTION
 ````
-### Code 
+## Code 
  Click the the "[Link](duplicateZeros.js)" to view the the code. 
+
+<hr>
+
+[⏎ Back to Array index ](../README.md) 
+
+[〈 Previous: Contains Duplicates](../containsDuplicates/README.md) | [Next: Find Numbers with Even Numbers of Digits 〉](../findEvenNumber/README.md)
