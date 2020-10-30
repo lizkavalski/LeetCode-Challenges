@@ -54,3 +54,9 @@ END
 Click the the "[Link](middleLL.js)" to view the the code.
 
 Click "[here](../README.md)" to get back to the index page for 'Linked List'
+
+<hr>
+
+[ ⏎ Back to Linked List index ](../README.md) 
+
+[〈 Previous: Delete Node in Linked List](../DeletenodeLL/README.md) | [Next: Remove Duplicates from Sorted List 〉](../removeDuplicates/README.md)
