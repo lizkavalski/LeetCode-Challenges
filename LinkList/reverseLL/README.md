@@ -36,4 +36,9 @@ END
 ## Code
 Click the the "[Link](reversell.js)" to view the the code.
 
-Click "[here](../README.md)" to get back to the index page for 'Linked List'
+<hr>
+
+[ ⏎ Back to Linked List index ](../README.md) 
+
+[〈 Previous: Remove Linked List Elements](../removeLLelements/README.md) 
+

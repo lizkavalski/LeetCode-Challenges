@@ -48,4 +48,8 @@ END
 ## Code
 Click the "[Link](removeLLelements.js)" to view the code.
 
-Click "[here](../README.md)" to get back to the index page for 'Linked List'
+<hr>
+
+[ ⏎ Back to Linked List index ](../README.md) 
+
+[〈 Previous: Remove Duplicates from Sorted Linked List](../removeDuplicates/README.md) | [Next: Reverse Linked List〉](../reverseLL/README.md)

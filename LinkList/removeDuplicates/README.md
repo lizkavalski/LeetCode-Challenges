@@ -43,5 +43,8 @@ END
 
 ## Code
 Click the the "[Link](removeDuplicates.js)" to view the the code.
+<hr>
 
-Click "[here](../README.md)" to get back to the index page for 'Linked List'
+[ ⏎ Back to Linked List index ](../README.md) 
+
+[〈 Previous: Middle of Linked List](../middleLL/README.md) | [Next: Remove Linked List Elements〉](../removeLLelements/README.md)
