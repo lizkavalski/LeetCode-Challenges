@@ -4,4 +4,11 @@ Given an array where elements are sorted in ascending order, convert it to a hei
 
 For this problem, a height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of every node never differ by more than 1.
 
-Click "[here](../README.md)" to get back to the index page for 'Trees'
+
+## Code
+Click ["here"](arrayToBST.js) to see the code.
+<hr>
+
+[⏎ Back to Trees index ](../README.md) 
+
+[Next: Maximum Depth of Binary Tree 〉](../maxDepth/README.md)
