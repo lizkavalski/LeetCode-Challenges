@@ -6,4 +6,11 @@ The maximum depth is the number of nodes along the longest path from the root no
 
 *__Note__*:<br> A leaf is a node with no children.
 
-Click "[here](../README.md)" to get back to the index page for 'Trees'
+## Code
+Click ["here"](maxDepth.js) to view code.
+
+<hr>
+
+[ ⏎ Back to Trees index ](../README.md) 
+
+[〈 Previous: Convert Sorted Array to Binary Search Tree](../arrayToBST/README.md) | [Next: N-ary Tree Postorder Traversal〉](../postOrder/README.md)

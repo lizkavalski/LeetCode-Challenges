@@ -4,4 +4,12 @@ Given the root node of a binary search tree, return the sum of values of all nod
 
 The binary search tree is guaranteed to have unique values.
 
-Click "[here](../README.md)" to get back to the index page for 'Trees'
+
+## Code
+Click ["here"](rangeSum.js) to view code.
+
+<hr>
+
+[ ⏎ Back to Trees index ](../README.md) 
+
+[〈 Previous: Path Sum](../pathSum/README.md) | [Next: Search in a Binary Search Tree 〉](../searchTree/README.md)
