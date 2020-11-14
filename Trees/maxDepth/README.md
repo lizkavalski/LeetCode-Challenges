@@ -7,11 +7,25 @@ The maximum depth is the number of nodes along the longest path from the root no
 *__Note__*:<br> A leaf is a node with no children.
 
 ## Visual
-
-## Algorthism
+![](maxdepth.png)
+## Algorthism 
+* Make a function.
+* Check if input is a root.
+  * If not reutrn null.
+* To go to the left call the function with the input being root.left.
+* To go to the right call the function with the input being root.right.
+* Return max of the left and right plus 1.
 
 ## Pseudocode
 ```
+START maxDepth <-- FUNCTION(INPUT<-- root)
+  IF root === NULL
+    RETURN 0;
+  END IF
+  left <-- maxDepth(root.left)
+  right <-- maxDepth(root.right)
+  OUTPUT <-- RETURN Math.max(left,right)+1
+END
 ```
 
 ## Code

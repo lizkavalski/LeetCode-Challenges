@@ -17,7 +17,7 @@ For this problem, a height-balanced binary tree is defined as a binary tree in w
 * return root.
 ## Pseudocode
 ```
-START sortedArrayToBST <-- function(INPUT <-- array)
+START sortedArrayToBST <-- FUNCTION(INPUT <-- array)
   IF !array.length OR array <-- null
     RETURN NULL
   END IF
@@ -26,6 +26,7 @@ START sortedArrayToBST <-- function(INPUT <-- array)
   root.left <-- sortedArrayToBST(array.slice(0,middle))
   root.right <-- sortedArrayToBST(array.slice(middle + 1))
   OUTPUT <-- RETURN root. 
+END FUNCTION
 ```
 
 ## Code
