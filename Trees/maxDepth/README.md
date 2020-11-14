@@ -6,6 +6,14 @@ The maximum depth is the number of nodes along the longest path from the root no
 
 *__Note__*:<br> A leaf is a node with no children.
 
+## Visual
+
+## Algorthism
+
+## Pseudocode
+```
+```
+
 ## Code
 Click ["here"](maxDepth.js) to view code.
 

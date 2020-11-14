@@ -4,6 +4,14 @@ Given a binary tree and a sum, determine if the tree has a root-to-leaf path suc
 
 *__Note__*:<br> A leaf is a node with no children.
 
+## Visual
+
+## Algorthism
+
+## Pseudocode
+```
+```
+
 ## Code
 Click ["here"](pathSum.js) to view code.
 
