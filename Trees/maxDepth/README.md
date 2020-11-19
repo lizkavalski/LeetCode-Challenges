@@ -7,7 +7,7 @@ The maximum depth is the number of nodes along the longest path from the root no
 *__Note__*:<br> A leaf is a node with no children.
 
 ## Visual
-![](maxdepth.png)
+![max depth](maxdepth.png)
 ## Algorthism 
 * Make a function.
 * Check if input is a root.
