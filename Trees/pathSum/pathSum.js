@@ -4,7 +4,7 @@ var hasPathSum = function(root, sum) {
     return false;
   }
   let isIt = false;
-  function walk(node, counter = 0){
+  _walk = function(node, counter = 0){
     counter += node.val;
     if(node.left){walk(node.left, counter)};
     if(node.right){walk(node.right, counter)};
