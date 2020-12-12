@@ -5,7 +5,7 @@ Given a binary tree and a sum, determine if the tree has a root-to-leaf path suc
 *__Note__*:<br> A leaf is a node with no children.
 
 ## Visual
-
+![Path Sum](PathSum.png)
 ## Algorthism
 * Make a function with the input of a tree and sum.
 * Check if there is a tree.
