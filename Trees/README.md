@@ -10,7 +10,7 @@ Contains LeetCode Challenges relating to Trees.
 
 [N-ary Tree Preorder](./preorder/README.md)
 
-[Path Sum](pathSum/README)
+[Path Sum](./pathSum/README)
 
 [Range Sum of BST](./rangeSum/README.md)
 

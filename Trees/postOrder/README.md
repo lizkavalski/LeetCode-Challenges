@@ -5,7 +5,8 @@ Given an n-ary tree, return the postorder traversal of its nodes' values.
 Nary-Tree input serialization is represented in their level order traversal, each group of children is separated by the null value.
 
 ## Visual
-
+![post order](postOrder.png
+)
 ## Algorthism
 * Check if their is a root.
   * If not return an empty array.
