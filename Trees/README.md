@@ -6,9 +6,9 @@ Contains LeetCode Challenges relating to Trees.
 
 [Maximum Deapth of Binary Tree](./maxDepth/README.md)
 
-[N-ary Tree Postorder](./postorder/README.md)
+[N-ary Tree Postorder](./postOrder/README.md)
 
-[N-ary Tree Preorder](./preorder/README.md)
+[N-ary Tree Preorder](./preOrder/README.md)
 
 [Path Sum](./pathSum/README)
 
