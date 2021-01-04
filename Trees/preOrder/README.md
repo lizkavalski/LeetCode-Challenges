@@ -19,7 +19,19 @@ Nary-Tree input serialization is represented in their level order traversal, eac
 * return arry  
 ## Pseudocode
 ```
-
+START
+preOrder <-- FUNCTION(INPUT <-- root)
+  results <-- []
+  IF (!root) RETURN results END IF
+  tranverse <-- FUNCTION(INPUT<-- node)
+    results.push (node.va)
+    FOR i<--0 i to node.children.length; 
+      tranverse(node.childern[i])
+    END FOR
+  END FUNCTION
+  tranverse(root)
+  RETURN results
+END
 ```
 
 ## Code

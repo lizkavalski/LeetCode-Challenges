@@ -4,13 +4,12 @@ var preorder = function(root) {
   if(!root){
     return results
   }
-    function traverse(node){
-        if(!node) return
-        results.push(node.val)
-        for(let i =0;i<node.children.length;i++){
-            traverse(node.children[i])
-        }   
-    }
-    traverse(root)
-    return results
+  function traverse(node){
+      results.push(node.val)
+      for(let i =0;i<node.children.length;i++){
+          traverse(node.children[i])
+      }   
+  }
+  traverse(root)
+  return results
 }
