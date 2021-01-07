@@ -7,7 +7,17 @@ The binary search tree is guaranteed to have unique values.
 ## Visual
 
 ## Algorthism
-
+* Make a  function that take in a root and two numbers( L, and R)
+* Set a counter
+* If the root  is equal to null,
+  * Returns the counter
+* If the L is greater then the root value.
+  * Add the value to counter which calls the function again, but insted of just the root it root of the left
+* If the root value is greater/equal to the left *__and__* less then/equal to the of the rigth
+  * Add to the counter of root.val.
+* If root.val is less then the right it
+  * Add to the counter and calls the funtion again from the root of the right.
+* Return the counter
 ## Pseudocode
 ```
 ```
