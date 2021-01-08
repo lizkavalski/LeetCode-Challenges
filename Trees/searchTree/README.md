@@ -7,7 +7,7 @@ Given the root node of a binary search tree (BST) and a value. You need to find 
 ## Algorthism
 * Make a function that takes a root and a value
 * If the root is null or, is the same value of the tree
-  * Return the tree
+  * Return the root
 * If the value is less the root value
   * Then it gose to the left. In which the the function is called again with the root being left of the orginaly root.
 * If value is more then the root val.
