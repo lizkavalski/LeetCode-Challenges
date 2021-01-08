@@ -5,9 +5,10 @@ Given the root node of a binary search tree, return the sum of values of all nod
 The binary search tree is guaranteed to have unique values.
 
 ## Visual
-
+![](RangeSum.png)
 ## Algorthism
 * Make a  function that take in a root and two numbers( L, and R)
+  * *__Note__*: L is the low number and R is the highest number
 * Set a counter
 * If the root  is equal to null,
   * Returns the counter
@@ -20,6 +21,22 @@ The binary search tree is guaranteed to have unique values.
 * Return the counter
 ## Pseudocode
 ```
+START rangeSumBST <-- FUNCTION(INPUT<-- root, L<-- NUMBER, R <-- NUMBER)
+  sum <-- 0
+  IF root === NULL
+    RETURN sum
+  END IF
+  IF root.val > L
+   sum += rangeSumBST(root.left, L,R)
+  END IF
+  IF root.val <= R AND root.val >= L
+    sun += root.val
+  END IF
+  IF root.val < R
+    sum += rangeSumBST(root.right,L,R)
+  END IF
+  RETURN OUTput<--sum
+END
 ```
 
 
