@@ -22,7 +22,7 @@ More formally check if there exists two indices i and j such that :
 * Do a second loop, which:
   * if the index of the frist loop is:
      * multiply by  2 or, divide by 2
-        * equal the index of the sencond loop return true
+        * equal the index of the second loop return true
   * if not return false
 
 ## Pseudocode

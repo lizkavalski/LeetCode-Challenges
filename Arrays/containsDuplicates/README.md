@@ -31,7 +31,7 @@ START containsDuplicate <-- FUNCTION(INPUT<--array)
     map[array[i]] <-- ture
   END FOR
   RETURN OUTPUT <-- false
-ENDF UNCTION
+END FUNCTION
 ````
 ## Code
  Click the the "[Link](containsDuplicate.js)" to view the the code. 
